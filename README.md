@@ -11,7 +11,7 @@
 3) Analyze and forecast financial business metrics using Google Sheets.
 4) create visualizations of a business metric and use Excel or Google Sheets to create a financial forecast model.
 
-# Attachement
+# Files added in repository
 
 - Readme file for project details.
 - Pdf file for presentation review (also attached link for google sheet).
